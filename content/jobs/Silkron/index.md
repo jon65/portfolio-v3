@@ -1,11 +1,12 @@
 ---
 date: '2022-06-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Data Analyst Intern'
+company: 'Mahkota Medical Centre'
+location: 'Melaka, Malaysia'
+range: 'Jan 2022 - Feb 2022'
+url: 'https://www.mahkotamedical.com/'
 ---
 
--
-- Built and delivered technical solutions according to stakeholder business requirements
+- Conducted SQL-driven data reporting on hospital operations, delivering key business insights.
+- Developed an Excel plugin script to automate recurring queries for the IT department, enhancing efficiency and productivity.
+- Identified data irregularities in organizations' data warehouse.
