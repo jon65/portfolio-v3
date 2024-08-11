@@ -65,11 +65,16 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
+        continously learning (and occasionally designing) MLOps Practises and FullStack Application!
+      </p>
+      <p
+        style={{
+          padding: 0,
+          margin: 0.1,
+        }}>
+        Currently, I’m focused on building a machine learning system for{' '}
         <a href="https://monashautomation.com/" target="_blank" rel="noreferrer">
-          Monash Automation
+          CSL Belhring
         </a>
         .
       </p>
@@ -81,7 +86,7 @@ const Hero = () => {
       href="https://www.newline.co/courses/build-a-spotify-connected-app"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Chat with me!
     </a>
   );
 
