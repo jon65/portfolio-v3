@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'TypeScript',
+    'React',
+    'AWS',
+    'Terraform',
+    'Kubenetes',
+    'Docker',
+    'Nginx',
+    'Tensorflow',
+    'Apache Spark',
+    'Github Actions',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +146,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
+              <p>
+                Herro 👋🏻 my name is Jonathan Yip, final year Software Eng student @ Monash
+                University.
+              </p>
 
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <p></p>
+              <p>
+                I love automating trival things and finding faster, efficient processes through
+                software which is why I love DevOps and AI. But that does not mean I don't love
+                other parts of tech too! In fact, I would consider myself a jack of all trades if
+                anything because I enjoy being involved at every part of building the software -
+                from the frontend to the deployment
+              </p>
             </p>
-
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Over the course of my tech journey, I've interned at{' '}
+              <a href="https://www.mahkotamedical.com/">a hospital</a>,{' '}
+              <a href="https://www.silkron.com/">an Iot Company</a>, and{' '}
+              <a href="https://monashautomation.com/">Monash's Innovation labs</a>
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
