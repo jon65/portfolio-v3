@@ -1,7 +1,7 @@
 ---
-date: '2018-05-14'
+date: '2024-03-01'
 title: 'Lead Engineer'
-company: 'Upstatement'
+company: 'CSL Belhring'
 location: 'Boston, MA'
 range: 'May 2018 - Present'
 url: 'https://www.upstatement.com/'
